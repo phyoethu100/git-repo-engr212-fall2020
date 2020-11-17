@@ -12,5 +12,3 @@ Name List
 8. Nikita Shpak
 9. Dalan Choy
 10. Irwin Salamanca
-11. Phyoe Thu
-
